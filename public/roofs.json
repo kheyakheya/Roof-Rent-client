@@ -1,0 +1,63 @@
+[
+    {
+      "image": "https://i.ibb.co/XVGn9V3/roof-3.jpg",
+      "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+      "price": 26456,
+      "category": "Gulshan"
+    },
+    {
+      "image": "https://i.ibb.co/D9z7ySm/roof-7.jpg",
+      "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+      "price": 22513,
+      "category": "Adabor"
+    },
+    {
+      "image": "https://i.ibb.co/7vJW4td/download.jpgs",
+      "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+      "price": 350000,
+      "category": "Gulshan"
+    },
+    {
+      "image": "https://i.ibb.co/Ws7tgmS/roof-8.jpg",
+      "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+      "price": 25513,
+      "category": "Gulshan"
+    },
+  
+    {
+      "image": "https://i.ibb.co/D9z7ySm/roof-7.jpg",
+      "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+      "price": 24560,
+      "category": "Adabor"
+    },
+    {
+      "image": "https://i.ibb.co/gtLsXHt/roof-4.jpg",
+      "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+      "price": 34500,
+      "category": "Gulshan"
+    },
+    {
+      "image": "https://i.ibb.co/J5tcVDM/roof-5.jpg",
+      "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+      "price": 25130,
+      "category": "Adabor"
+    },
+    {
+      "image": "https://i.ibb.co/gtLsXHt/roof-4.jpg",
+      "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+      "price": 20000,
+      "category": "Gulshan"
+    },
+    {
+      "image": "https://i.ibb.co/XVGn9V3/roof-3.jpg",
+      "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+      "price": 21300,
+      "category": "Adabor"
+    },
+    {
+      "image": "https://i.ibb.co/7vJW4td/download.jpgs",
+      "dateRange": "Jan 9, 2024 - Jan 14, 2024",
+      "price": 24000,
+      "category": "Gulshan"
+    }
+  ]
